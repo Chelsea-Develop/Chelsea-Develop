@@ -1,4 +1,4 @@
- <!--
+<!--
   Chelsea-Develop — GitHub Profile README
   Theme: Terminal / Dark
 -->
@@ -6,13 +6,7 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=E8E4DA&center=true&vCenter=true&repeat=true&width=600&height=55&lines=chelsea%40github%3A~%24+whoami;Python+Learner+%7C+Developer+in+Progress;Learning+by+building." alt="Typing SVG" />
-### `$ ls ./technologies`
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,linux,vscode,windows&theme=dark&perline=4" alt="Python, Linux Terminal, Visual Studio Code and Windows" />
-
-</div>
 <br/>
 
 **Learning by building.**
@@ -39,7 +33,7 @@ My goal is simple: keep learning, keep building, and become a better developer e
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" />
+<img src="https://skillicons.dev/icons?i=python,linux,vscode,windows&theme=dark&perline=4" alt="Python, Linux, Visual Studio Code and Windows" />
 
 </div>
 
